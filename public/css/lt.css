@@ -1,0 +1,27 @@
+.container-fluid{
+    background-color: #9cadce;
+    display: flex;
+    padding: 20px 30px;
+    justify-content: space-between;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 38px 38px #9cadce;
+}
+nav{
+    font-size: 20px;
+    font-weight: 30px;
+    
+    color: white;
+    border-radius: 1px;
+}
+.navbar-brand{
+    font-size: 40px;
+    color: grey;
+    font-family: Copperplate;
+}
+h1{
+    margin-top: 60px;
+}            
+.bwh{
+    margin-top: 30px;
+}   
